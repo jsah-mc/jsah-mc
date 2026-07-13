@@ -4,4 +4,5 @@
 - 📫 How to reach me sah.joseph@outlook.com
 - 😄 Pronouns: He/Him
 
-![GitHub Contributions](https://herokuapp.comjsah-mc&theme=dark)
+![jsah-mc GitHub Stats](https://vercel.app)
+
